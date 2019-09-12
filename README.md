@@ -1,2 +1,2 @@
 # hello-world
-edited repository 
+print("hello world")
